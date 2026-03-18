@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=0
+Content-Length: 75002
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 18 Mar 2026 04:23:18 GMT
+Etag: W/"124fa-19cff04763a"
+Feature-Policy: payment 'self'
+Last-Modified: Wed, 18 Mar 2026 03:36:48 GMT
+Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=pybJFp0DiIqfy3Lr3TkOrfoSIo8r19t%2BG4atjeeAfHM%3D\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\u0026ts=1773807798"}],"max_age":3600}
+Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=pybJFp0DiIqfy3Lr3TkOrfoSIo8r19t%2BG4atjeeAfHM%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1773807798"
+Server: Heroku
+Vary: Accept-Encoding
+Via: 1.1 heroku-router
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Recruiting: /#/jobs
+
