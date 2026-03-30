@@ -178,8 +178,7 @@ juice_shop_assessment/
 ## Author
 
 **Satheesh Nithiananthan**  
-Security Intern ·Future Interns Program  
-Assessment Date: March 2026
+
 
 ---
 
